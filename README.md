@@ -9,3 +9,5 @@ This PHP attendance system project is primarily concerned with dealing with stud
 
 * Email   : teacher@mail.com
 * Password: teacher
+
+For more details check out : https://github.com/arzharch/Student-Attendance-System01-main/blob/main/DBMS_miniproject_report.pdf
